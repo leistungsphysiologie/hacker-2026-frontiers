@@ -1,0 +1,12 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv
+renv/library/
+renv/staging/
+renv/sandbox/
+
+# OS
+.DS_Store
