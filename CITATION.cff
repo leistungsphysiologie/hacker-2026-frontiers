@@ -1,0 +1,90 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite as below."
+type: software
+
+title: "Code and data for: Genetic and non-genetic determinants of vitamin D status: a polygenic score analysis in elite athletes"
+version: 1.0.0
+date-released: 2026-05-28
+
+authors:
+  - family-names: Hacker
+    given-names: Sebastian
+    orcid: https://orcid.org/0000-0003-1324-9510
+    affiliation: "Department of Exercise Physiology and Sports Therapy, Institute of Sports Science, Justus Liebig University Giessen, Germany"
+    email: sebastian.hacker@sport.uni-giessen.de
+
+  - family-names: Reichert
+    given-names: Lukas
+    orcid: https://orcid.org/0000-0003-1743-0931
+    affiliation: "Work Unit Movement and Exercise Science, Institute of Sports Science, Goethe University Frankfurt, Germany"
+
+  - family-names: Lenz
+    given-names: Claudia
+    orcid: https://orcid.org/0009-0002-8690-6526
+    affiliation: "Department of Exercise Physiology and Sports Therapy, Institute of Sports Science, Justus Liebig University Giessen, Germany"
+
+  - family-names: Henne
+    given-names: Sabrina
+    orcid: https://orcid.org/0000-0002-2953-2700
+    affiliation: "Institute of Human Genetics, School of Medicine & University Hospital Bonn, University of Bonn, Germany"
+
+  - family-names: David
+    given-names: Friederike
+    orcid: https://orcid.org/0000-0001-9521-5669
+    affiliation: "Institute of Human Genetics, School of Medicine & University Hospital Bonn, University of Bonn, Germany"
+
+  - family-names: Heilmann-Heimbach
+    given-names: Stefanie
+    orcid: https://orcid.org/0000-0003-1057-465X
+    affiliation: "Institute of Human Genetics, School of Medicine & University Hospital Bonn, University of Bonn, Germany"
+
+  - family-names: Zentgraf
+    given-names: Karen
+    orcid: https://orcid.org/0000-0002-1118-4015
+    affiliation: "Work Unit Movement and Exercise Science, Institute of Sports Science, Goethe University Frankfurt, Germany"
+
+  - family-names: Krüger
+    given-names: Karsten
+    orcid: https://orcid.org/0000-0003-1506-8254
+    affiliation: "Department of Exercise Physiology and Sports Therapy, Institute of Sports Science, Justus Liebig University Giessen"
+
+repository-code: https://github.com/leistungsphysiologie/hacker-2026-frontiers
+license: MIT
+
+abstract: >
+  This repository contains data and analysis code for a study examining the
+  association between a polygenic score (PGS) for vitamin D metabolism and
+  serum 25-hydroxyvitamin D concentrations in 473 German national squad
+  athletes. Using linear regression models, we assessed the relative
+  contribution of genetic versus non-genetic determinants (supplementation,
+  UVB exposure, age, sex, competition environment).
+
+keywords:
+  - vitamin-d
+  - polygenic-score
+  - elite-athletes
+
+references:
+  - type: article
+    title: "Genetic and non-genetic determinants of vitamin D status: a polygenic score analysis in elite athletes"
+    authors:
+      - family-names: Hacker
+        given-names: Sebastian
+      - family-names: Reichert
+        given-names: Lukas
+      - family-names: Lenz
+        given-names: Claudia
+      - family-names: Henne
+        given-names: Sabrina
+      - family-names: David
+        given-names: Friederike
+      - family-names: Heilmann-Heimbach
+        given-names: Stefanie
+      - family-names: Zentgraf
+        given-names: Karen
+      - family-names: Krüger
+        given-names: Karsten
+    journal: "Frontiers in Genetics"
+    year: 2026
+    volume: 17
+    doi: 10.3389/fgene.2026.1838157
