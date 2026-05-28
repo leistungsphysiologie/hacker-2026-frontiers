@@ -1,10 +1,10 @@
 # Genetic and non-genetic determinants of vitamin D status: a polygenic score analysis in elite athletes
 
-[![DOI](https://img.shields.io/badge/DOI-10.3389%2Ffgene.2025.1838157-blue)](https://doi.org/10.3389/fgene.2026.1838157)
+[![DOI](https://img.shields.io/badge/DOI-10.3389%2Ffgene.2026.1838157-blue)](https://doi.org/10.3389/fgene.2026.1838157)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Hacker, S., Reichert, L., Lenz, C., Henne, S., David, F., Heilmann-Heimbach, S., Zentgraf, K., & Krüger, K. (2026).** Genetic and non-genetic determinants of vitamin D status: a polygenic score analysis in elite athletes.
-> *Frontiers in Genetics*, 17. https://doi.org/10.3389/fgene.2026.1838157
+> *Frontiers in Genetics, 17*. https://doi.org/10.3389/fgene.2026.1838157
 
 ---
 
