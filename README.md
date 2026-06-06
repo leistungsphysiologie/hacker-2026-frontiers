@@ -47,7 +47,7 @@ This repository contains data and analysis code for a study examining the associ
 > The datasets generated and/or analyzed during the current study are not fully publicly available due to ethical and legal restrictions, specifically concerning the raw genotype data of the participating athletes. Additional data may be available from the corresponding author upon reasonable request and subject to ethical approval and data protection guidelines.
 
 ## Reproducing the figures
-During manuscript preparation `R version 4.5.2` was used. The renv lock file has since been updated to `R version 4.6.0`. Package versions are managed via [`renv`](https://rstudio.github.io/renv). To restore the exact environment and reproduce the figures:
+During manuscript preparation `R version 4.5.2` was used. Package versions are managed via [`renv`](https://rstudio.github.io/renv). The renv lock file has since been updated to `R version 4.6.0`.  To restore the exact environment and reproduce the figures:
 
 ```r
 # 1. Clone the repository
